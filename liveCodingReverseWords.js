@@ -25,6 +25,7 @@ const testReverseWords = (string, expected) => {
     console.log(false);
 }
 
+// Provided test cases
 testReverseWords("hello", "olleh");
 testReverseWords("the rabbit jumps", "eht tibbar spmuj");
 testReverseWords("the  rabbit  jumps", "eht  tibbar  spmuj");
