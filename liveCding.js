@@ -1,6 +1,8 @@
 // Write a function to revert every word in a string. For example:
 // “the rabbit jumps” → “eht tibbar spmuj”
 
+// I'll retyr this one
+
 const revertWords = (string) => {
     if (!string.length) return "";
 
